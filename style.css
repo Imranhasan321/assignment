@@ -1,0 +1,298 @@
+*{
+    margin: 0;
+    max-width: 100%;
+}
+.header .header-tittle{
+    padding-top: 216px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    padding-right: 239px;
+   color: #FFFFFF;
+
+}
+.header .details{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+    padding-right: 239px;
+    margin-top: 24px;
+    margin-bottom: 32px;
+    color: #FFFFFF;
+
+   
+}
+
+.header .primary-btn{
+    font-family: 'Work Sans';
+    font-style: normal;
+     font-weight: 600;
+     font-size: 20px;
+     text-align: right;
+     color: #005FAC;
+     padding: 20px 24px;
+     border: 0;
+     background: #FFFFFF;
+    border-radius: 5px;    
+}
+.header .btn{
+    text-align: right;
+    padding-right: 239px;
+}
+
+.header {
+    background-image: url('/new-year-new-me/images/banner/banner3.png');
+    width: 1600px;
+    height: 800px;
+    margin-bottom: 131px;
+}.section-1{
+    display: flex;
+    gap: 87px;
+    align-items: center;
+}
+.section-1-header{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    padding-right: 300px;
+    margin-bottom: 24px;
+}
+.section-1 .des{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 26px;
+   
+
+}
+.section-1 .div-2{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    
+
+}
+.section-1 #img{
+    margin-left: 205px;
+}
+/* success style */
+.success{
+    display: flex;
+    gap: 300px;
+    align-items: center;
+}
+.success .section-2-header{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #46f710;
+    padding-left: 200px;
+    margin-bottom: 24px;
+    margin-top: 100px;
+}
+.success .des{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #9114aa;
+    margin-bottom: 26px;
+    padding-left: 200px;
+}
+.success .div-2{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #cb3a23;
+    padding-left: 200px;
+
+}
+
+.hello h1{
+ 
+   text-align: center;
+    color: #444344;
+    margin-top: 130px;
+    font-weight: bolder;
+    font-size: 80px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.success img{
+    align-items: center;
+    margin-top: 100px;
+    width: 500px;
+    height: 500px;
+    margin-right: 200px;
+}
+
+.my-plan h1{
+    padding-left: 765px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-top: 130px;
+    margin-bottom: 30px;
+}
+.my-plan table{
+    margin-left: 220px;
+          
+}
+.my-plan table td{
+    padding: 65px;
+}
+.my-plan h3{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+   
+}
+.my-plan p{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+    color: #737272;
+}
+
+
+.bg{
+    width: 1000px;
+    height: 300px;
+    background-image: url('/new-year-new-me/images/gradient1.png'),url('/new-year-new-me/images/watch.png');
+    margin-bottom: 130px;
+    margin-top: 130px;
+    margin-right: 180px;
+    margin-left: 230px;
+}
+.bg p{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    padding-top: 60px;
+    margin-left: 45px;
+}
+.bg button{
+    background: #FFFFFF;
+    border-radius: 5px;
+    width: 160px;
+    height: 64px;
+    color: #005FAC;
+    text-align: center;
+    font-family: 'Work Sans';
+    margin-left: 45px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+/* footer */
+footer{
+    display: flex;
+    gap: 280px;
+    
+}
+footer .div1 h1{
+    margin-top: 130px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+    margin-left: 230px;
+}
+footer .div1 .p1{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+     color: #F8F8F8;
+     margin-left: 230px;
+     margin-top: 20px;
+}
+footer .div1 .p2{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+      color: #F8F8F8; 
+     margin-left: 230px;
+     margin-top: 24px;
+     margin-top: 18px;
+}
+footer .div1 .p3{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+     color: #F8F8F8;
+     margin-left: 230px;
+     margin-top: 24px;
+     margin-top: 18px;
+}
+footer .div1 .you{
+    margin-top: 20px;
+    margin-left: 220px;
+
+}
+footer .div2 h3{
+    margin-top: 130px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+footer .div2 .input{
+    padding: 12px 34px;
+    border: solid forestgreen;
+    margin-bottom: 13px;
+
+}
+footer .div2 button{
+    width: 170.11px;
+    height: 64px;
+    background: #005FAC;
+    border-radius: 8px;
+    color: #ffffff;
+    border: 0;
+}
+footer{
+    background: #151414;
+    width: 1600px;
+    height: 577px;
+}
+
+
+
